@@ -1,0 +1,358 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    overflow-x: hidden;
+}
+.save-3{
+    /* width: 30px; */
+    height: 20px;
+    margin-left: -60px;
+}
+.nav{
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    gap: 3rem;
+    position: fixed;
+    background-color: white;
+    top: 0px;
+    width: 100%;
+    color: navy; 
+    box-shadow: 1px 1px 7px 1px lightgray;
+    z-index: 9999;
+    align-items: center;
+    padding: 15px;
+
+}
+.div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 100px;
+    margin-left: 100px;
+    position: relative;
+    /* padding: 50px; */
+}
+.span:hover {
+    .div-1{
+        display: block;
+    }
+}
+.ref{
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+.phone{
+    display: flex;
+    gap: 4rem;
+    margin-left: 50px;
+}
+.div-1{
+    position: absolute;
+    top: 30px;
+    display: none;
+}
+.div-2{
+    background-color: red;
+    display: flex;
+    gap: 2em;
+    width: 500px;
+    border-radius: 20px;
+    
+}
+ .div-3{
+    border-right: 1px solid white;
+    padding: 0px !important;
+}
+
+.div-3 ul{
+    padding: 30px 15px;
+}
+.div-3 ul li{
+    padding: 20px 15px;
+}
+.loop{
+    padding: 20px;
+}
+.sign{
+    margin-left: 300px;
+}
+.div-11{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+.phone-1{
+    display: flex;
+    gap: 4rem;
+}    
+.span-1:hover {
+    .div-4{
+        display: block;
+    }
+}
+.div-4{
+    position: absolute;
+    top: 30px;
+    display: none;
+}
+.div-5{
+    display: flex;
+    gap: 2rem;
+    width: 250px;
+    border: 1px solid red;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    font-weight: 200;
+    line-height: 37px;
+    background-color: red;
+    padding: 50px;
+}
+.div-22{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+.phone-2{
+    display: flex;
+    gap: 4rem;
+}    
+.span-2:hover {
+    .div-7{
+        display: block;
+    }
+}
+.div-7{
+    position: absolute;
+    top: 30px;
+    display: none;
+}
+.div-8{
+    /* gap: 2rem; */
+    width: 100px;
+    border: 1px solid red;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    font-weight: 200;
+    line-height: 37px;
+    background-color: red;
+    padding: 50px;
+}
+.div-23{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+.gimme-10{
+    margin-left: 10px;
+}
+.phone-22{
+    display: flex;
+    gap: 4rem;
+}
+.span-10:hover {
+    .div-10{
+        display: block;
+    }
+}
+.div-10{
+    position: absolute;
+    top: 30px;
+    display: none;
+}
+.bully{
+    width: 120px;
+    height: 40px;
+    border-radius: 7px;
+    border-color: lightgray;
+    color: navy;
+    font-weight: bold;
+}
+.corner{
+    margin-left: 250px;
+}
+.div-12{
+    width: 100px;
+    border: 1px solid red;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    font-weight: 200;
+    line-height: 37px;
+    background-color: red;
+    padding: 50px;
+}
+.laid{
+    margin-left: 150px;
+    display: flex;
+    gap: 2rem;
+    margin-top: 100px;
+}
+.kuda-5{
+    border: 1px solid lightgray;
+    margin-top: 10px;
+    height: 80px;
+    width: 250px;
+    padding: 20px;
+    border-color: lightgray;
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: 0 0 25px rgba(0, 0, 0, .06);
+}
+.kuda-6{
+    border: 1px solid lightgray;
+    margin-top: 10px;
+    height: 80px;
+    width: 250px;
+    padding: 20px;
+    border-color: lightgray;
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: 0 0 25px rgba(0, 0, 0, .06);
+}
+.kuda-7{
+    border: 1px solid lightgray;
+    margin-top: 10px;
+    height: 80px;
+    width: 250px;
+    padding: 20px;
+    border-color: lightgray;
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: 0 0 25px rgba(0, 0, 0, .06);
+}
+.celebrate{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: #DFE3FF;
+}
+.grow{
+    color: navy;
+}
+.ketuall{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.ketu{
+    font-weight: 800;
+    font-size: 40px;
+    color: #40196D;
+    max-width: 300px;
+}
+.ketu-1{
+    max-width: 300px;
+    margin-top: 20px;
+}
+.bully-1{
+    width: 150px;
+    height: 40px;
+    background-color: #40196D;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.bully-2{
+    width: 450px;
+    margin-left: 400px;
+    margin-top: -400px;
+}
+.worshipall{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.worship{
+    width: 400px;
+}
+.music{
+    margin-top: -250px;
+}
+.worship-1{
+    margin-left: 700px;
+    font-weight: 800;
+    font-size: 30px;
+    color: #40196D;
+    max-width: 400px;
+}
+.worship-2{
+    margin-left: 700px;
+    margin-top: 20px;
+    max-width: 350px;
+}
+.worship-3{
+    margin-left: 700px;
+    color: #40196D;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.nationall{
+    margin-top: 300px;
+    margin-left: 150px;
+}
+.nation{
+    font-weight: 800;
+    font-size: 30px;
+    color: #40196D;
+    max-width: 320px;
+}
+.nation-1{
+    max-width: 350px;
+    margin-top: 20px;
+}
+.nation-2{
+    margin-top: 20px;
+    color: #40196D;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.nation-3{
+    width: 400px;
+    margin-left: 500px;
+    margin-top: -300px;
+}
+.allimage{
+    width: 300px;
+}
+.imageall{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.allimage-1{
+    width: 200px;
+    margin-left: 40px;
+    padding-top: 60px;
+    margin-top: -280px;
+}
+.allimage-2{
+    width: 300px;
+    margin-bottom: 700px;
+    margin-top: -340px;
+}
+.yeboall{
+    margin-left: 500px;
+    margin-top: -750px;
+}
+.yebo{
+    font-weight: 800;
+    font-size: 30px;
+    color: #40196D;
+    max-width: 300px;
+}
+.yebo-1{
+    max-width: 350px;
+    margin-top: 20px;
+}
+.yebo-2{
+    color: #40196D;
+    text-decoration: underline;
+    margin-top: 20px;
+}
